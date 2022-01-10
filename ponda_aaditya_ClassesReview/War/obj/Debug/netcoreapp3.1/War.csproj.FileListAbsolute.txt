@@ -1,0 +1,50 @@
+/Users/rcarroll/Projects/War/War/obj/Debug/netcoreapp3.1/War.csprojAssemblyReference.cache
+/Users/rcarroll/Projects/War/War/obj/Debug/netcoreapp3.1/War.AssemblyInfoInputs.cache
+/Users/rcarroll/Projects/War/War/obj/Debug/netcoreapp3.1/War.AssemblyInfo.cs
+/Users/rcarroll/Projects/War/War/obj/Debug/netcoreapp3.1/War.csproj.CoreCompileInputs.cache
+/Users/rcarroll/Projects/War/War/bin/Debug/netcoreapp3.1/War.deps.json
+/Users/rcarroll/Projects/War/War/bin/Debug/netcoreapp3.1/War.runtimeconfig.json
+/Users/rcarroll/Projects/War/War/bin/Debug/netcoreapp3.1/War.runtimeconfig.dev.json
+/Users/rcarroll/Projects/War/War/bin/Debug/netcoreapp3.1/War.dll
+/Users/rcarroll/Projects/War/War/bin/Debug/netcoreapp3.1/War.pdb
+/Users/rcarroll/Projects/War/War/obj/Debug/netcoreapp3.1/War.dll
+/Users/rcarroll/Projects/War/War/obj/Debug/netcoreapp3.1/War.pdb
+/Users/rcarroll/Projects/War/War/obj/Debug/netcoreapp3.1/War.genruntimeconfig.cache
+/Users/rcarroll/Desktop/CE01 Classes Review/War/War/bin/Debug/netcoreapp3.1/War.deps.json
+/Users/rcarroll/Desktop/CE01 Classes Review/War/War/bin/Debug/netcoreapp3.1/War.runtimeconfig.json
+/Users/rcarroll/Desktop/CE01 Classes Review/War/War/bin/Debug/netcoreapp3.1/War.runtimeconfig.dev.json
+/Users/rcarroll/Desktop/CE01 Classes Review/War/War/bin/Debug/netcoreapp3.1/War.dll
+/Users/rcarroll/Desktop/CE01 Classes Review/War/War/bin/Debug/netcoreapp3.1/War.pdb
+/Users/rcarroll/Desktop/CE01 Classes Review/War/War/obj/Debug/netcoreapp3.1/War.csprojAssemblyReference.cache
+/Users/rcarroll/Desktop/CE01 Classes Review/War/War/obj/Debug/netcoreapp3.1/War.AssemblyInfoInputs.cache
+/Users/rcarroll/Desktop/CE01 Classes Review/War/War/obj/Debug/netcoreapp3.1/War.AssemblyInfo.cs
+/Users/rcarroll/Desktop/CE01 Classes Review/War/War/obj/Debug/netcoreapp3.1/War.csproj.CoreCompileInputs.cache
+/Users/rcarroll/Desktop/CE01 Classes Review/War/War/obj/Debug/netcoreapp3.1/War.dll
+/Users/rcarroll/Desktop/CE01 Classes Review/War/War/obj/Debug/netcoreapp3.1/War.pdb
+/Users/rcarroll/Desktop/CE01 Classes Review/War/War/obj/Debug/netcoreapp3.1/War.genruntimeconfig.cache
+/Users/rcarroll/OneDrive/APA/Admin/Assignments Code/CE01 Classes Review/War/War/bin/Debug/netcoreapp3.1/War.deps.json
+/Users/rcarroll/OneDrive/APA/Admin/Assignments Code/CE01 Classes Review/War/War/bin/Debug/netcoreapp3.1/War.runtimeconfig.json
+/Users/rcarroll/OneDrive/APA/Admin/Assignments Code/CE01 Classes Review/War/War/bin/Debug/netcoreapp3.1/War.runtimeconfig.dev.json
+/Users/rcarroll/OneDrive/APA/Admin/Assignments Code/CE01 Classes Review/War/War/bin/Debug/netcoreapp3.1/War.dll
+/Users/rcarroll/OneDrive/APA/Admin/Assignments Code/CE01 Classes Review/War/War/bin/Debug/netcoreapp3.1/War.pdb
+/Users/rcarroll/OneDrive/APA/Admin/Assignments Code/CE01 Classes Review/War/War/obj/Debug/netcoreapp3.1/War.csprojAssemblyReference.cache
+/Users/rcarroll/OneDrive/APA/Admin/Assignments Code/CE01 Classes Review/War/War/obj/Debug/netcoreapp3.1/War.AssemblyInfoInputs.cache
+/Users/rcarroll/OneDrive/APA/Admin/Assignments Code/CE01 Classes Review/War/War/obj/Debug/netcoreapp3.1/War.AssemblyInfo.cs
+/Users/rcarroll/OneDrive/APA/Admin/Assignments Code/CE01 Classes Review/War/War/obj/Debug/netcoreapp3.1/War.csproj.CoreCompileInputs.cache
+/Users/rcarroll/OneDrive/APA/Admin/Assignments Code/CE01 Classes Review/War/War/obj/Debug/netcoreapp3.1/War.dll
+/Users/rcarroll/OneDrive/APA/Admin/Assignments Code/CE01 Classes Review/War/War/obj/Debug/netcoreapp3.1/War.pdb
+/Users/rcarroll/OneDrive/APA/Admin/Assignments Code/CE01 Classes Review/War/War/obj/Debug/netcoreapp3.1/War.genruntimeconfig.cache
+C:\Users\aadit\OneDrive\Documents\CE01ClassesReview\CE01 Classes Review\War\War\bin\Debug\netcoreapp3.1\War.exe
+C:\Users\aadit\OneDrive\Documents\CE01ClassesReview\CE01 Classes Review\War\War\bin\Debug\netcoreapp3.1\War.deps.json
+C:\Users\aadit\OneDrive\Documents\CE01ClassesReview\CE01 Classes Review\War\War\bin\Debug\netcoreapp3.1\War.runtimeconfig.json
+C:\Users\aadit\OneDrive\Documents\CE01ClassesReview\CE01 Classes Review\War\War\bin\Debug\netcoreapp3.1\War.runtimeconfig.dev.json
+C:\Users\aadit\OneDrive\Documents\CE01ClassesReview\CE01 Classes Review\War\War\bin\Debug\netcoreapp3.1\War.dll
+C:\Users\aadit\OneDrive\Documents\CE01ClassesReview\CE01 Classes Review\War\War\bin\Debug\netcoreapp3.1\War.pdb
+C:\Users\aadit\OneDrive\Documents\CE01ClassesReview\CE01 Classes Review\War\War\obj\Debug\netcoreapp3.1\War.csproj.AssemblyReference.cache
+C:\Users\aadit\OneDrive\Documents\CE01ClassesReview\CE01 Classes Review\War\War\obj\Debug\netcoreapp3.1\War.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aadit\OneDrive\Documents\CE01ClassesReview\CE01 Classes Review\War\War\obj\Debug\netcoreapp3.1\War.AssemblyInfoInputs.cache
+C:\Users\aadit\OneDrive\Documents\CE01ClassesReview\CE01 Classes Review\War\War\obj\Debug\netcoreapp3.1\War.AssemblyInfo.cs
+C:\Users\aadit\OneDrive\Documents\CE01ClassesReview\CE01 Classes Review\War\War\obj\Debug\netcoreapp3.1\War.csproj.CoreCompileInputs.cache
+C:\Users\aadit\OneDrive\Documents\CE01ClassesReview\CE01 Classes Review\War\War\obj\Debug\netcoreapp3.1\War.dll
+C:\Users\aadit\OneDrive\Documents\CE01ClassesReview\CE01 Classes Review\War\War\obj\Debug\netcoreapp3.1\War.pdb
+C:\Users\aadit\OneDrive\Documents\CE01ClassesReview\CE01 Classes Review\War\War\obj\Debug\netcoreapp3.1\War.genruntimeconfig.cache
