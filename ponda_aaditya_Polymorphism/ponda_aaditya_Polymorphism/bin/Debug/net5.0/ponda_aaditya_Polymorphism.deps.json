@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ponda_aaditya_Polymorphism/1.0.0": {
+        "runtime": {
+          "ponda_aaditya_Polymorphism.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ponda_aaditya_Polymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

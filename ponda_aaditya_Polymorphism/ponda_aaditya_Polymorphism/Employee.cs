@@ -15,12 +15,23 @@ namespace ponda_aaditya_Polymorphism
         private string _name;
         private string _address;
 
+        public string GetName()
+        {
+            return _name;
+        }
+
         abstract public decimal CalculatePay();
 
         public Employee(string name, string address)
         {
             _name = name;
             _address = address;
+        }
+
+        public String GetEmployeeDetails()
+        {
+            string employeeDtls = string.Format("{0,-20}{1,-30}{2,-20:C2}", _name, _address, CalculatePay());
+            return employeeDtls;
         }
     }
 }
