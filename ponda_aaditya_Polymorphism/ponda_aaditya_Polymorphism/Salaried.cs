@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace ponda_aaditya_Polymorphism
 {
+    /* Salaried employee contains salary along with name and address */
     class Salaried : Employee
     {
         protected decimal _salary;

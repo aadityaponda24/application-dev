@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace ponda_aaditya_Polymorphism
 {
+    /* Hourly employee conaints pay per hour and hours per week */
     abstract class Hourly : Employee
     {
         protected decimal _payPerHour;

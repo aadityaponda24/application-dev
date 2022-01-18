@@ -8,6 +8,7 @@ namespace ponda_aaditya_Polymorphism
 {
     class Program
     {
+        /* Starting point of application, instantiated application class  */
         static void Main(string[] args)
         {
             Application application = new Application();

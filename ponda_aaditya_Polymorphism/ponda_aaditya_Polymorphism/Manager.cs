@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace ponda_aaditya_Polymorphism
 {
+    /* Manager employee contains salary and bonus */
     class Manager: Salaried
     {
         private decimal _bonus;

@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace ponda_aaditya_Polymorphism
 {
+    /* Employee base class contains name and address and also calculate pay method */
     abstract class Employee
     {
         private string _name;
@@ -28,6 +29,7 @@ namespace ponda_aaditya_Polymorphism
             _address = address;
         }
 
+        /* Get employees implemented in base class */
         public String GetEmployeeDetails()
         {
             string employeeDtls = string.Format("{0,-20}{1,-30}{2,-20:C2}", _name, _address, CalculatePay());

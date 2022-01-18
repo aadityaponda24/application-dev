@@ -4,6 +4,7 @@
  */
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,21 +14,33 @@ namespace ponda_aaditya_Polymorphism
     
     class Application
     {
+        /* Variable to store list of employees */
         private List<Employee> _employees;
 
+        /* Mainmenu choices */
         private List<string> _menuChoices = new List<string>() { "Add Employee", "Remove Employee", "Display Payroll","Exit"};
         private Menu mainMenu;
 
+        /* Add menu choices */
         private List<string> _addMenuChoices = new List<string>() { "Full Time", "Part Time", "Salaried", "Manager" };
         private Menu addMenu;
 
+        /* Application constructor */
         public Application()
         {
-            _employees = new List<Employee>();
+            /* Setup main menu */
             mainMenu = new Menu(_menuChoices);
             addMenu = new Menu(_addMenuChoices);
+            
+            _employees = new List<Employee>();
 
+            /* load employees from the file on starting of application */
+            loadEmployees();
+
+            /* get initial menu choice */
             int menuChoice = getMenuChoice(mainMenu);
+
+            /* Repeat till user selects menu choice 4 */
             while(menuChoice != 4)
             {
                 switch(menuChoice)
@@ -42,6 +55,7 @@ namespace ponda_aaditya_Polymorphism
 
         }
 
+        /* Accept menu choice from user */
         private int getMenuChoice(Menu menu)
         {
             Console.Clear();
@@ -52,6 +66,7 @@ namespace ponda_aaditya_Polymorphism
 
         }
 
+        /* Add employee method */
         private void addEmployee()
         {
             int menuChoice = getMenuChoice(addMenu);
@@ -89,6 +104,7 @@ namespace ponda_aaditya_Polymorphism
             Menu.ReadKey();
         }
 
+        /* Remove Employee Method */
         private void removeEmployee()
         {
             displayEmployees();
@@ -99,6 +115,14 @@ namespace ponda_aaditya_Polymorphism
             Menu.ReadKey();
         }
 
+        /* Display payroll makes use of display employees method */
+        private void displayPayroll()
+        {
+            displayEmployees();
+            Menu.ReadKey();
+        }
+
+        /* Display employee method */
         private void displayEmployees()
         {
             Console.Clear();
@@ -112,9 +136,24 @@ namespace ponda_aaditya_Polymorphism
             }
         }
 
-        private void displayPayroll()
+        /* Load employees method for file loading of 3 employees */
+        private void loadEmployees()
         {
-            displayEmployees();
+            string employeeFileName = "../../../output/employees.txt";
+            if(File.Exists(employeeFileName))
+            {
+                string[] lines = File.ReadAllLines(employeeFileName);
+                foreach(string line in lines)
+                {
+                    string[] fields = line.Split(",");
+                    string name = fields[0];
+                    string address = fields[1];
+                    decimal hoursPerWeek;
+                    decimal.TryParse(fields[2],out hoursPerWeek);
+                    Employee employee = new FullTime(name, address, hoursPerWeek);
+                    _employees.Add(employee);
+                }
+            }
             Menu.ReadKey();
         }
 
