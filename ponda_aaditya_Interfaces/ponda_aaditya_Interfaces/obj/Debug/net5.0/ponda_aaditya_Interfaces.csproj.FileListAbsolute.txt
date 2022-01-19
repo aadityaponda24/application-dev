@@ -1,0 +1,16 @@
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\obj\Debug\net5.0\ponda_aaditya_Interfaces.csproj.AssemblyReference.cache
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\obj\Debug\net5.0\ponda_aaditya_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\obj\Debug\net5.0\ponda_aaditya_Interfaces.AssemblyInfoInputs.cache
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\obj\Debug\net5.0\ponda_aaditya_Interfaces.AssemblyInfo.cs
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\obj\Debug\net5.0\ponda_aaditya_Interfaces.csproj.CoreCompileInputs.cache
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\bin\Debug\net5.0\ponda_aaditya_Interfaces.exe
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\bin\Debug\net5.0\ponda_aaditya_Interfaces.deps.json
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\bin\Debug\net5.0\ponda_aaditya_Interfaces.runtimeconfig.json
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\bin\Debug\net5.0\ponda_aaditya_Interfaces.runtimeconfig.dev.json
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\bin\Debug\net5.0\ponda_aaditya_Interfaces.dll
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\bin\Debug\net5.0\ref\ponda_aaditya_Interfaces.dll
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\bin\Debug\net5.0\ponda_aaditya_Interfaces.pdb
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\obj\Debug\net5.0\ponda_aaditya_Interfaces.dll
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\obj\Debug\net5.0\ref\ponda_aaditya_Interfaces.dll
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\obj\Debug\net5.0\ponda_aaditya_Interfaces.pdb
+C:\github\application-dev\ponda_aaditya_Interfaces\ponda_aaditya_Interfaces\obj\Debug\net5.0\ponda_aaditya_Interfaces.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ponda_aaditya_Interfaces", "ponda_aaditya_Interfaces\ponda_aaditya_Interfaces.csproj", "{AA2BF5E0-6DBC-4277-AFB4-7FB9AFF10A36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2BF5E0-6DBC-4277-AFB4-7FB9AFF10A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2BF5E0-6DBC-4277-AFB4-7FB9AFF10A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2BF5E0-6DBC-4277-AFB4-7FB9AFF10A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2BF5E0-6DBC-4277-AFB4-7FB9AFF10A36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB8007E4-605D-40F6-80B6-28475F74A753}
+	EndGlobalSection
+EndGlobal
