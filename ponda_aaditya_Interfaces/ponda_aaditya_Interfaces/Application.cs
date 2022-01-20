@@ -69,7 +69,20 @@ namespace ponda_aaditya_Interfaces
 
         private void trainAnimal(Animal animal)
         {
+            if(animal is ITrainable)
+            {
+                ITrainable trainable = animal as ITrainable;
 
+                string behavior = Validation.ValidateString("What new behavior are you training the animal to do? ");
+                string signal = Validation.ValidateString("What signal will you use to ask the animal to perform this new behavior? ");
+                string result = trainable.Train(signal, behavior);
+
+                Menu.DisplayContent(result);
+            }
+            else
+            {
+                Menu.DisplayContent($"{animal.Species} is not Trainable!");
+            }
         }
 
         private void feedAnimal(Animal animal)
@@ -79,7 +92,25 @@ namespace ponda_aaditya_Interfaces
 
         private void signalAnimal(Animal animal)
         {
+            if (animal is ITrainable)
+            {
+                ITrainable trainable = animal as ITrainable;
+                
+                List<string> signals = trainable.Behaviors.Keys.ToList();
+                Menu signalMenu = new Menu(signals);
 
+                signalMenu.displayMenu(1);
+
+                int signalChoice = Validation.ValidateRange("What signal will you use? ",1,signals.Count);
+                string signal = signals[signalChoice - 1];
+                string result = trainable.Perform(signal);
+
+                Menu.DisplayContent(result);
+            }
+            else
+            {
+                Menu.DisplayContent($"{animal.Species} is not Trainable!");
+            }
         }
 
         private void listenAnimal(Animal animal)
