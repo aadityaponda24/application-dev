@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aadit\\OneDrive\\Documents\\CE01ClassesReview\\CE01 Classes Review\\War\\War\\War.csproj",
+      "projectUniqueName": "C:\\github\\application-dev\\ponda_aaditya_ClassesReview\\War\\War.csproj",
       "projectName": "War",
-      "projectPath": "C:\\Users\\aadit\\OneDrive\\Documents\\CE01ClassesReview\\CE01 Classes Review\\War\\War\\War.csproj",
+      "projectPath": "C:\\github\\application-dev\\ponda_aaditya_ClassesReview\\War\\War.csproj",
       "packagesPath": "C:\\Users\\aadit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aadit\\OneDrive\\Documents\\CE01ClassesReview\\CE01 Classes Review\\War\\War\\obj\\",
+      "outputPath": "C:\\github\\application-dev\\ponda_aaditya_ClassesReview\\War\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aadit\\AppData\\Roaming\\NuGet\\NuGet.Config",
