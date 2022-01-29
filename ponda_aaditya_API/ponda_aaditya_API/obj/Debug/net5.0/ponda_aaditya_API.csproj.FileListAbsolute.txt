@@ -1,0 +1,17 @@
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\bin\Debug\net5.0\ponda_aaditya_API.exe
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\bin\Debug\net5.0\ponda_aaditya_API.deps.json
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\bin\Debug\net5.0\ponda_aaditya_API.runtimeconfig.json
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\bin\Debug\net5.0\ponda_aaditya_API.runtimeconfig.dev.json
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\bin\Debug\net5.0\ponda_aaditya_API.dll
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\bin\Debug\net5.0\ref\ponda_aaditya_API.dll
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\bin\Debug\net5.0\ponda_aaditya_API.pdb
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\obj\Debug\net5.0\ponda_aaditya_API.csproj.AssemblyReference.cache
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\obj\Debug\net5.0\ponda_aaditya_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\obj\Debug\net5.0\ponda_aaditya_API.AssemblyInfoInputs.cache
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\obj\Debug\net5.0\ponda_aaditya_API.AssemblyInfo.cs
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\obj\Debug\net5.0\ponda_aaditya_API.csproj.CoreCompileInputs.cache
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\obj\Debug\net5.0\ponda_aaditya_API.dll
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\obj\Debug\net5.0\ref\ponda_aaditya_API.dll
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\obj\Debug\net5.0\ponda_aaditya_API.pdb
+C:\github\application-dev\ponda_aaditya_API\ponda_aaditya_API\obj\Debug\net5.0\ponda_aaditya_API.genruntimeconfig.cache

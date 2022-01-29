@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f+jLk2CoISV/H5/rAFB+c/vIRc+NH4LaspJQhyb79lgqOGA8uWwkfxjgHOUZpOR5sWjpabiwdZFrmfzumTpXYg==",
+  "success": true,
+  "projectFilePath": "C:\\github\\application-dev\\ponda_aaditya_API\\ponda_aaditya_API\\ponda_aaditya_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aadit\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
